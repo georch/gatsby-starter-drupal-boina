@@ -22,7 +22,7 @@ cd boina
 cp .env.dist .env.development
 ```
 
-> NOTE: You should use `.env.production` for production environment.
+> You should use `.env.production` for production environment.
 
 ## Update environment variables
 
@@ -31,7 +31,7 @@ cp .env.dist .env.development
 DRUPAL_HOST=http://drupal-boina.weknowinc.com/
 ```
 
-> The DRUPAL_HOST variable contains the URL for your Drupal backed server.We highly recommend you to use the [Drupal Boina Distribution](https://github.com/weknowinc/drupal-boina). But in case you want to try right away. Don't worry we prepare a demo server running our Boina Distribution at http://drupal-boina.weknowinc.com/ 
+> The DRUPAL_HOST variable contains the URL for your Drupal backed server. We highly recommend you to use the [Drupal Boina Distribution](https://github.com/weknowinc/drupal-boina). But in case you want to try right away. Don't worry we prepare a demo server running our Boina Distribution at http://drupal-boina.weknowinc.com/ 
 
 
 ## Start Gatsby in development mode
